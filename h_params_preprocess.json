@@ -1,0 +1,7 @@
+{
+    "h_stride": 8, 
+    "length": 9, 
+    "data_path": "/baldig/physicsprojects2/galprop/dark_matter/transformed_data", 
+    "v_stride": 8,
+    "path_to_save": "/home/mohamadt/workspace/dark_matter/nips_2020/preprocessed_data_for_GP"
+}
